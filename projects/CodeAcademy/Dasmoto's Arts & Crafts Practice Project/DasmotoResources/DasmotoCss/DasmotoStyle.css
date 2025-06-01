@@ -1,0 +1,88 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {font-family: Arial, Helvetica, sans-serif;}
+
+h2 {
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p span {
+    color: blue;
+    font-weight: bold;
+}
+
+#Personal-Portfolio {
+    background-color: #4B3832;
+    padding: 20px;
+    color: #FAF5EF;
+    font-family: sans-serif;
+    border-radius: 15px;
+}
+
+#Personal-Portfolio h1{
+    text-align: center;
+    color: #E6D3AA;
+    font-size: 45px;
+}
+
+#Personal-Portfolio .Personal-Portfolio-Navbar li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+#Personal-Portfolio .Personal-Portfolio-Navbar a{
+   color: #FAF5EF;
+}
+
+#Personal-Portfolio .Personal-Portfolio-Navbar a:hover{
+   color: #EEDDC8;
+}
+
+
+.Personal-Portfolio-Seperator {
+    background-color: #EEDDC8;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 0 200px;
+    text-decoration: none;
+    cursor: default;
+}
+
+.Personal-Portfolio-Seperator h3 {
+    font-size: 25px;
+}
+
+#banner {
+    background-image: url("../DasmotoImages/DasmotosImage1.jpeg");
+}
+
+
+
+#banner h1 {
+    font-size: 100px;
+    text-align: center;
+    color: khaki;
+    font-weight: bold;
+}
+
+.section1 h2 {
+    background-color: mediumspringgreen;
+}
+
+.section2 h2 {
+    background-color: lightcoral;
+}
+
+.section3 h2 {
+    background-color: skyblue;
+}

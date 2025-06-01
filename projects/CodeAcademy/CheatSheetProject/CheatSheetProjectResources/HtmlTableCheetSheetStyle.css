@@ -1,0 +1,47 @@
+#Personal-Portfolio {
+    background-color: #4B3832;
+    padding: 20px;
+    color: #FAF5EF;
+    font-family: sans-serif;
+    border-radius: 15px;
+}
+
+#Personal-Portfolio h1{
+    text-align: center;
+    color: #E6D3AA;
+    font-size: 45px;
+}
+
+#Personal-Portfolio .Personal-Portfolio-Navbar li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+#Personal-Portfolio .Personal-Portfolio-Navbar a{
+   color: #FAF5EF;
+}
+
+#Personal-Portfolio .Personal-Portfolio-Navbar a:hover{
+   color: #EEDDC8;
+}
+
+.Personal-Portfolio-Seperator {
+    background-color: #EEDDC8;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 0 200px;
+}
+
+body .body-header,.banner,.main{
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+footer {
+    text-align: right;
+}
